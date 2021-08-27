@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdnazrulislamnahid" alt="mdnazrulislamnahid" /></a> </p>
 
-<p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/mdnazru44122059https://twitter.com/mdnahid01?logo=twitter&style=for-the-badge" alt="https://twitter.com/mdnazru44122059https://twitter.com/mdnahid01" /></a> </p>
+<p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/mdnazru44122059https://twitter.com/mdnahid01?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Facebook](https://www.facebook.com/mdnazrulislam.nahid.3597)
 
