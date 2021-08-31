@@ -1,7 +1,7 @@
 # Hi there 👋, Md Nazrul Islam Nahid 👦👦
 ## I am Web Designer & Developer.
 <h3 align="center">A passionate frontend developer from Nabinagar, BrahmanBaria, Banglasdesh</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdnazrulislamnahid&show_icons=true&locale=en" alt="mdnazrulislamnahid" /></p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdnazrulislamnahid&show_icons=true&locale=en&layout=compact" alt="mdnazrulislamnahid" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdnazrulislamnahid&show_icons=true&locale=en" alt="mdnazrulislamnahid" /> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdnazrulislamnahid&show_icons=true&locale=en&layout=compact" alt="mdnazrulislamnahid" /></p> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdnazrulislamnahid&label=Profile%20views&color=0e75b6&style=flat" alt="mdnazrulislamnahid" /> </p>
 
 - 🔭 I’m currently working on [Facebook](https://www.facebook.com/mdnazrulislam.nahid.3597)
