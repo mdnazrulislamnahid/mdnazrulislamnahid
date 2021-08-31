@@ -1,4 +1,12 @@
-<h1 align="center">Hi 👋, I'm Md Nazrul Islam Nahid</h1>
+### Hi there 👋, Md Nazrul Islam Nahid
+#### Web Developer
+![Web Developer](https://scontent.fdac92-1.fna.fbcdn.net/v/t1.6435-9/224129159_145754711021670_6750070857548531247_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=UL7bhRljxosAX9n-kOx&_nc_ht=scontent.fdac92-1.fna&oh=01cf4235dcb05c9114139ee993695158&oe=61531D2F)
+
+I want to be a Web Developer.
+
+Skills: Bootstrap / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
 <h3 align="center">A passionate frontend developer from Nabinagar, BrahmanBaria, Banglasdesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdnazrulislamnahid&label=Profile%20views&color=0e75b6&style=flat" alt="mdnazrulislamnahid" /> </p>
